@@ -33,8 +33,8 @@ Arguments:
   text:                          Some japanese text
 ```
 
-## Usage
+## Usage Example
 
-    go-furigana-generator -s kaksi -- 学校は家から遠いの？
+    go-furigana-generator -s kakasi -- 学校は家から遠いの？
 
     <ruby><rb>学校</rb><rp>(</rp><rt>がっこう</rt><rp>)</rp></ruby>は<ruby><rb>家</rb><rp>(</rp><rt>いえ</rt><rp>)</rp></ruby>から<ruby><rb>遠</rb><rp>(</rp><rt>とお</rt><rp>)</rp></ruby>いの？
